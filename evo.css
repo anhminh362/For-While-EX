@@ -1,0 +1,23 @@
+body{
+    display: block;
+    text-align: center;
+    
+}
+.container-fluid{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#banchay, #noibat{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: center;
+
+}
+
+.hot-product{
+    padding: 30px 0;
+    margin-top: 20px;
+    background-image: url(https://bizweb.dktcdn.net/100/366/378/themes/736342/assets/evo_gift_bg.jpg?1663905428530);
+}
+
